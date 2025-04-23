@@ -7,8 +7,8 @@
 #include "Wire.h"
 #include "DHT.h"
 
-const char* ssid = "null";
-const char* pass = "null";
+const char* ssid = "4G-MIFI-11D";
+const char* pass = "1234567890";
 const char* host = "null";
 #define indikatorwifi 2
 #define relaypin1 4
